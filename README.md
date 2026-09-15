@@ -14,6 +14,8 @@ Each language follows the same exercise pattern:
 - **Exercise 1 & 2**: empty stubs (e.g. `return false`, `throw NotImplementedError`) — build the implementation from scratch using TDD.
 - **Exercise 3**: a fully working but deliberately messy implementation (nested conditionals, terse variable names, magic numbers) — the behavior is already correct, so the exercise is to add test coverage and refactor safely under it.
 
+Reference solutions for every exercise and language are in `solutions/`, with comments marking which test each part of the implementation satisfies. They aren't wired into the build — copy the relevant file over its stub under `exercises/` to check your own implementation or unblock if you get stuck.
+
 ## C# requires the .NET 8 runtime
 
 The C# workspace targets `net8.0`. If your machine's default `dotnet` on `PATH` doesn't include the .NET 8 runtime (check with `dotnet --list-runtimes`), install it separately:

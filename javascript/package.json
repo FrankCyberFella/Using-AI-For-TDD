@@ -1,0 +1,11 @@
+{
+  "name": "ai-tdd-workshop",
+  "version": "1.0.0",
+  "description": "Pragmatic TDD with AI workshop exercises",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

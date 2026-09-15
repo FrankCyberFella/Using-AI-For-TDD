@@ -1,21 +1,21 @@
 # C#
-csharp/**/bin/
-csharp/**/obj/
+exercises/csharp/**/bin/
+exercises/csharp/**/obj/
 
 # Java
-java/**/target/
+exercises/java/**/target/
 *.class
 
 # Python
-python/**/__pycache__/
-python/**/.venv/
-python/**/*.egg-info/
-python/**/.pytest_cache/
+exercises/python/**/__pycache__/
+exercises/python/**/.venv/
+exercises/python/**/*.egg-info/
+exercises/python/**/.pytest_cache/
 
 # JavaScript
-javascript/**/node_modules/
-javascript/**/dist/
-javascript/**/coverage/
+exercises/javascript/**/node_modules/
+exercises/javascript/**/dist/
+exercises/javascript/**/coverage/
 
 # OS
 .DS_Store

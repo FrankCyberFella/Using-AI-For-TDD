@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-BASE_DIR="$HOME/TrainingMaterial/Using-AI-For-TDD"
+BASE_DIR="$HOME/TrainingMaterial/Using-AI-For-TDD/exercises"
 echo "Creating workshop workspaces in: $BASE_DIR"
 
 mkdir -p "$BASE_DIR"
